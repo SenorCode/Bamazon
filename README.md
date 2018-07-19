@@ -1,15 +1,15 @@
 # Bamazon
 
-Challenge #1: Customer View (Minimum Requirement)
-Create a MySQL Database called bamazon.
+## Challenge #1: Customer View 
 
-Then create a Table inside of that database called products.
+1. Create a MySQL Database called bamazon.
 
-The products table should have each of the following columns:
+2. Then create a Table inside of that database called products.
 
-1.item_id (unique id for each product)
+3 .The products table should have each of the following columns:
+* item_id (unique id for each product)
 
-product_name (Name of product)
+* product_name (Name of product)
 
 department_name
 
