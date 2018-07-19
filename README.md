@@ -42,6 +42,11 @@
 
 # Result
 
+### modules used:
+* Mysql
+* Inquirer
+* Cli-table2
+
 ![img1](https://github.com/SenorCode/Bamazon/blob/master/img1.PNG)
 ![img2](https://github.com/SenorCode/Bamazon/blob/master/img2.PNG)
 ![img3](https://github.com/SenorCode/Bamazon/blob/master/img3.PNG)
